@@ -5,7 +5,7 @@ using std::endl;
 
 int main( void ) {
 	// print something
-	cout << "Hello World" << endl;
+	cout << "Hello C++ World" << endl;
 
 	return 0;
 }
