@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// code begin
 int main( void ) {
 	int n;
 	cin >> n;
